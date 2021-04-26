@@ -1,0 +1,3 @@
+2;Disponível;Imagens/notebook.jpg;Notebook;1;Eletro
+1;Alocado;Imagens/boneca.jpg;Boneca;Bom;Brinquedos
+0;Disponível;Imagens/arroz.jpg;Arroz;3;Comida

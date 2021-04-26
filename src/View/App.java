@@ -79,7 +79,7 @@ public class App {
                             if (loginUser != null) {
                                 System.out.println(loginUser.getMessageLogon());
                                 String tipo = "";
-                                System.out.println("1 - Vestuário\n2 - Brinquedos\n3 - Comida\n 4 - Eletros");
+                                System.out.println("1 - Vestuário\n2 - Brinquedos\n3 - Comida\n4 - Eletros");
                                 op2 = Leitor.leInteiro();
                                 switch (op2) {
                                     case 1:
